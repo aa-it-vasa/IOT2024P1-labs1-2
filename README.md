@@ -84,31 +84,4 @@ the file `lab_reflection.md`. This file should provide answers to the following 
 
 The report and reflections should contain full name of each group member.
 
-The hard deadline for submission is **20.03.2023 23:55**. Note that each group will also need
-to submit a link to your repo in Moodle before the deadline.
-
-## Setup your computer 
-To perform lab exercises, you need to setup your computer. No extra computers will be provided and it is your responsibility to setup your computer. It is assumed that you know some basic commands of Linux. 
-
-For the Labs your will use a Virtualbox Ubuntu-based virtual machine (VM) as a development environment step. 
-You should:
-
-1. Download and install Virtualbox on your laptop: https://www.virtualbox.org/wiki/Downloads 
-2. Download the VM from the course Team on Microsoft Teams and channel _Labs_.
-
-3. Import the downloaded VM into Virtualbox by selecting the downloaded .ova file. The current VM has 4GB of RAM - Feel free to adjust it based on your own laptop configuration.
-
-4. Check you can start the VM. 
-
-5. Clone your repository on the VM. More information [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). You might need to setup some authentication. 
-
-- **The username and password are iotlabs/iotlabs.**
-- Feel free to change the screen resolution in Ubuntu or to scale in/out the virtual screen. 
-- Feel free to create a shared folder between your physical machine and VM (Settings->Shared folder). The following mount point can be used: /home/iotlabs/SharedFolder
-- The VM has Atom and VS Code installed as a possible source code editor.
-
-**If you have issues when importing the above VM,** you should the other version (also available in Teams) which uses the Open Virtualisation Format 2.0.
-
-**If you have issue when booting the VM**, you should try to enable "3D acceleration" in Settings->Display before starting the imported VM. Also try increasing the amount of video memory and disabling audio support.
-
-**If you have disk capacity issue,** you can increase the size of the VM disk using the Tools menu. Go to Tools->Virtual Media Manager->Select 'IoT-Labs 2023-Disk001.vdi'-> increase the disk size -> click on 'Apply'.
+The hard deadline for submission is available on Moodle. Note that each group will also need to submit a link to your repo in Moodle before the deadline.

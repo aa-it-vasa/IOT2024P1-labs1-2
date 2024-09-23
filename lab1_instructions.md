@@ -23,7 +23,7 @@ Collect the board and the required components. You will need:
 
 1. [Arduino MKR WiFi1010 board](https://store.arduino.cc/arduino-mkr-wifi-1010)
 2. Breadboard
-3. Thermistor [MCP9700](http://ww1.microchip.com/downloads/en/DeviceDoc/20001942G.pdf) if in Turku or [LMT87](http://ww1.microchip.com/downloads/en/DeviceDoc/20001942G.pdf) if in Vaasa.
+3. Thermistor [MCP9700](http://ww1.microchip.com/downloads/en/DeviceDoc/20001942G.pdf) if in Turku or [LMT87](https://www.ti.com/lit/gpn/lmt87) if in Vaasa.
 4. Up to 5 breadboard connectors
 5. A USB type A to USB micro cable
 6. WiFi credentials for Arduino
